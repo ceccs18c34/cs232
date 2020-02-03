@@ -1,0 +1,58 @@
+Script started on Monday 03 February 2020 10:41:19 AM IST
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ if [Kconfig-a
+ifconfig-a: command not found
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ ifconfig -a
+eth0      Link encap:Ethernet  HWaddr 10:78:d2:3e:2a:b9  
+          inet addr:192.168.0.63  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::1278:d2ff:fe3e:2ab9/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:37740 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:3149 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:7325699 (7.3 MB)  TX bytes:362029 (362.0 KB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:58 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:58 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:4812 (4.8 KB)  TX bytes:4812 (4.8 KB)
+
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ route
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+link-local      *               255.255.0.0     U     1000   0        0 eth0
+192.168.0.0     *               255.255.254.0   U     1      0        0 eth0
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ routem[K =-n[K[K[K-n
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+169.254.0.0     0.0.0.0         255.255.0.0     U     1000   0        0 eth0
+192.168.0.0     0.0.0.0         255.255.254.0   U     1      0        0 eth0
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ route -n[K[Kadd default gw 192.168.02
+SIOCADDRT: Operation not permitted
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ ping 192.1
+connect: Network is unreachable
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ ping 192.168
+connect: Network is unreachable
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ ping 1
+connect: Network is unreachable
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ pim[Kng 1`[K92.168.
+ping: unknown host 192.168.
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ ping 192.168..
+ping: unknown host 192.168..
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ 
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ 
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ ping 192.168..[K0
+Do you want to ping broadcast? Then -b
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ 
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ ping 192.168.0
+Do you want to ping broadcast? Then -b
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ \[K--[Kb
+-b: command not found
+]0;s4c1@lasb2-Veriton-Series: ~/ceccs18c34/cs232/0302s4c1@lasb2-Veriton-Series:~/ceccs18c34/cs232/0302$ -bping 192.168.0,.[K[K.2
+PING 192.168.0.2 (192.168.0.2) 56(84) bytes of data.
+64 bytes from 192.168.0.2: icmp_req=1 ttl=64 time=0.155 ms
+64 bytes from 192.168.0.2: icmp_req=2 ttl=64 time=0.172 ms
+64 bytes from 192.168.0.2: icmp_re

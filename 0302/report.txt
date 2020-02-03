@@ -1,0 +1,50 @@
+CEC CS 18 c34
+Justin joseph
+--------------------------------
+#1: Aim/task
+---------------------------------
+networking tasks
+
+
+---------------------------------
+
+Input:
+---------------
+ifconfig
+ifconfig-a
+ route
+route -n
+route add default gw 192.168.0
+ping 192.168.0.2
+
+--------------------------------
+Output: or Input & Output
+
+ifconfig-a- dispaly all avialable network interfaces
+ 
+route-n -displays kernal routing table
+
+route add -is used to add a new route to the table
+
+route add default gw 192.168.0-a default gateway in this case
+
+
+-------------------
+Remarks if any:
+
+
+
+
+
+-------------------------------------
+-------------------------------------
+#2:
+
+#3:
+
+#4:
+
+#5:
+
+
+
