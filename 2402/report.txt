@@ -1,0 +1,40 @@
+CEC CS 18 c34
+Justin joseph
+DATE:24/02/2020
+ip: 192.168.0.203
+MAC: 10:78:d2:3e:2a:b9
+--------------------------------
+#1: Aim/task
+---------------------------------
+networking tasks(t4,t5)
+
+
+---------------------------------
+
+Input:
+---------------
+T5
+put abc.txt
+rm abc.txt
+rename abc.txt pqr.txt
+rm pqr.txt
+sftp cs18c34@192.168.0.30
+
+T4
+
+rsync
+rsync -a
+ssh cs18c34@192.168.0.30
+
+
+OUTPUT
+
+T4
+ssh cs18c34@192.168.0.30 is used to open a secured connection to remote 
+rsync display all the rsync options
+rsync -a dispalys  all the rsync -a options
+
+T5
+uploded a file at first.then it renamed and removed from the sftp server
+-------------------
+Remarks if any:
