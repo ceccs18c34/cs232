@@ -1,0 +1,117 @@
+CEC CS 18 C34
+JUSTIN JOSEPH
+21 05 2020
+
+-
+Input: 
+---------------
+The various steps are shown below:
+  
+        >To update the local package - sudo apt-get update
+
+        >To install apache2  -  sudo apt-get install apache2
+       
+        >To remove apache2   -  sudo apt autoremove
+  
+        >To install links2   -  sudo apt-get install links2
+ 
+        >To remove links2    -  sudo apt remove links2
+
+        >To list the all installed packages  -  sudo apt list > process.txt
+
+
+          
+--------------------------------
+Output:
+
+
+      >>List of all installed packages are  -  process.txt 
+
+
+
+
+#2: Aim/task
+
+ t8(3)  Further tasks
+        LAMP stack
+---------------------------------
+Command/Shell script/Program name
+
+>>update list
+
+        sudo apt update
+
+
+>>To install apache2
+
+        sudo apt-get install apache2
+
+>>To start apache2
+
+        sudo service apache2 start
+
+
+>>To install my-sql
+
+        sudo apt-get install mysql-server
+
+
+>>To start mysqlserver
+
+        sudo service mysql start 
+
+
+>>PHP installation
+
+        sudo apt install php libapache2-mod-php php-mysql
+
+
+>>Creating PHP file info
+
+        nano info.php
+
+
+>>Creating PHP file index
+
+        nano index.php
+
+
+>>PHP version viewed through
+
+        http://localhost/info.php or 192.168.43.198/info.php
+
+
+>>Test PHP Processing on Web Server
+
+        sudo nano /var/www/html/info.php
+
+
+---------------------------------
+
+Input: 
+---------------
+>>php file
+
+ info.php
+ index.php
+
+--------------------------------
+Output: 
+
+#info.php 
+  Screenshot info.png
+
+#index.php 
+  Screenshot index.png
+
+
+-------------------
+Remarks if any:
+
+
+
+
+
+-------------------------------------
+
+
