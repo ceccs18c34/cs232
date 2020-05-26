@@ -1,0 +1,176 @@
+CEC CS 18 C34   22-05-20
+JUSTIN JOSEPH
+--------------------------------
+#1:t8(2) Perl
+---------------------------------
+Program Name:
+----------------------------
+
+1.To print hello world.
+
+2.To find the factorial of a number.
+
+3.To find the sum of two numbers.
+
+
+
+------------------------------------
+
+#Output
+-------------------------
+1.      Hello world
+
+
+
+2. 	enter limit 4
+	factorial is 24
+
+
+3.	Enter the numbers
+	2
+	3
+	Sum = 5
+
+
+
+
+
+#2: Aim/task    #S4
+
+
+Shell Programming : Write shell script to show various system configuration like
+>> Currently logged user and his login name
+>> Your current shell
+>> Your home directory
+>> Your operating system type
+>> Your current path setting
+>> Your current working directory
+>> Number of users currently logged in
+
+---------------------------------
+Command/Shell script/Program name
+
+**Shell script -  myscript.sh
+
+
+**Run script - bash myscript.sh
+
+
+---------------------------------
+
+
+--------------------------------
+Output: or Input & Output 
+
+>>myscript1.png is attached to show various system configuration 
+
+
+
+
+-------------------
+-------------------------------------
+-------------------------------------
+#3:Aim/task  #S5
+
+Write shell script to show various system configurations like
+>> your OS and version, release number, kernel version
+>> all available shells
+>> computer CPU information like processor type, speed etc
+>> memory information
+>> hard disk information like size of hard-disk, cache memory, model etc
+>> File system (Mounted)
+---------------------------------
+Command/Shell script/Program name
+
+
+**Shell script - myscript1.sh
+
+**Run script  - bash myscript1.sh
+
+---------------------------------
+
+
+--------------------------------
+Output: or Input & Output 
+
+
+>> your OS and version, release number, kernel version
+>> all available shells
+>> computer CPU information like processor type, speed etc
+>> memory information
+>> hard disk information like size of hard-disk, cache memory, model etc
+>> File system (Mounted)
+
+
+-------------------
+Remarks if any:
+
+
+
+
+
+-------------------------------------
+------------------------------------
+
+
+
+
+
+
+
+
+#4: Shell script S6
+
+
+    To implement a menu driven calculator
+
+
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+>>Shell script used
+
+          calculator.sh
+
+
+Input:
+---------------
+
+	Two numbers are 35 and 7
+
+--------------------------------
+Output: 
+
+
+	The various operations are done and the corresponding output is obtained.
+
+	Screenshot 1.png and Screenshot 2.png  both screenshots shows the various operations done with the 2 numbers.
+
+
+-------------------
+
+
+
+
+#5: Linux Installation (t6)
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	# Ubuntu installation using CD
+	Ubuntu 18.04 LTS
+	
+
+--------------------------------
+Output: 
+
+	# Screenshots 1-5 (.jpg) shows various steps of installation	
+
+	# Ubuntu 18.04 LTS is installed alongside with windows10
+
+-------------------
+Remarks if any:
+

@@ -1,0 +1,18 @@
+Script started on 2020-05-22 13:36:28+0530
+]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2205[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2205[00m$ geadit[K[K[K[Kdit helloworld.pl
+]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2205[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2205[00m$ perl helloworld.pl
+hello world]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2205[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2205[00m$ gedit fact.pl
+]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2205[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2205[00m$ perl fact.pl
+enter limit 4
+factorial is 24
+]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2205[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2205[00m$ gedit sum of numbers.pl
+]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2205[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2205[00m$ gedit sumof n[K[Knumbers.pl
+]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2205[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2205[00m$ perl sumof [Knumbers.pl
+Enter the numbers
+2  
+3
+Sum = 5
+]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2205[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2205[00m$ exiy[Kt
+exit
+
+Script done on 2020-05-22 13:47:36+0530
