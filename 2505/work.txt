@@ -1,0 +1,7 @@
+Script started on 2020-05-25 16:58:15+0530
+]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2505[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2505[00m$ gedit index.html
+^C
+]0;justin@justin-Aspire-V3-575G: ~/ceccs18c34/cs232/2505[01;32mjustin@justin-Aspire-V3-575G[00m:[01;34m~/ceccs18c34/cs232/2505[00m$ exit
+exit
+
+Script done on 2020-05-25 17:51:11+0530

@@ -1,0 +1,25 @@
+CEC CS 18 c34
+JUSTIN JOSEPH
+
+--------------------------------
+#1: Create own web page at our server (t9)
+---------------------------------
+
+Command/Shell script/Program name
+
+
+# Webpage name: index.html
+
+# sftp command is used to put the page to the server
+---------------------------------
+
+--------------------------------
+Output: or Input & Output 
+
+	# The page can be viewed at
+	http://14.139.189.217/cs18c/cs18c34/
+
+-------------------
+Remarks if any:
+
+
